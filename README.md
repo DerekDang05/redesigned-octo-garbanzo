@@ -20,7 +20,7 @@ This challenge requires refactoring starter code so that the website is optimize
 <img width="1440" alt="Screenshot of webpage" src="https://github.com/DerekDang05/redesigned-octo-garbanzo/assets/142350017/5e43c3e1-7524-4d62-80e1-3f69faaee003">
 
 * Deployed link: https://DerekDang05.github.io/redesigned-octo-garbanzo
-* Public Github repo: https://github.com/DerekDang05y/redesigned-octo-garbanzo
+* Public Github repo: https://github.com/DerekDang05/redesigned-octo-garbanzo
 
 ## Technologies
 
